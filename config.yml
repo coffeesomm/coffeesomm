@@ -11,15 +11,15 @@ taxonomies:
 
 menu:
     main:
-        - name: Publications
+        - name: Favorite Reads/Projects
           url: articles/
           weight: 1
-        - name: Talks
+        - name: Coffee
           url: talks/
-          weight: 2
-        - name: Teaching
+          weight: 3
+        - name: Courses
           url: classes/
-          weight: 3 
+          weight: 2
         - name: Resume
           url: cv.pdf
         # - name: Newsletter
@@ -58,11 +58,11 @@ params:
           imageHeight: 160
           imageTitle: Dylan Laplace Mermoud
           buttons:
-            - name: Publications
+            - name: Favorite Reads/Projects
               url: articles/
-            - name: Talks
+            - name: Coffee
               url: talks/
-            - name: Teaching
+            - name: Courses
               url: classes/
             - name: Resume
               url: cv.pdf
