@@ -28,7 +28,7 @@ menu:
 
 params:
     description: "I am a postdoctoral researcher in quantum algorithms at ENSTA - Institut Polytechnique de Paris."
-    author: Dylan Laplace Mermoud
+    author: Yash Chhabra
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "02 Jan 2006"
     defaultTheme: light
@@ -51,7 +51,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Dylan Laplace Mermoud
+          title: Yash Chhabra
           subtitle: "I am a postdoctoral researcher in quantum algorithms at the mathematics department of ENSTA from the Institut Polytechnique de Paris. I am also affiliated with the combinatorial optimization team in the CEDRIC lab at the Conservatoire National des Arts et Métiers. I am supervised by Andrea Simonetto, and co-supervised by Sourour Elloumi. Besides quantum algorithms, my research focuses on cooperative game theory and algebraic combinatorics."
           imageUrl: "photo.png"
           imageWidth: 160
